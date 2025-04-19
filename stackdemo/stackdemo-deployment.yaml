@@ -17,4 +17,4 @@ spec:
       - image: abhishekganji27/stackdemo:7
         name: stackdemo-ui
         ports:
-        - containerPort: 80
+        - containerPort: 8000
