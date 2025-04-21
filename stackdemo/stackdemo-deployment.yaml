@@ -14,7 +14,7 @@ spec:
         app: stackdemo-ui
     spec:
       containers:
-      - image: abhishekganji27/stackdemo:21
+      - image: abhishekganji27/stackdemo:7
         name: stackdemo-ui
         ports:
         - containerPort: 8000
