@@ -1,7 +1,0 @@
-resources:
-- stackdemo-deployment.yaml
-
-images:
-- name: abhishekganji27/stackdemo:7
-  newName: abhishekganji27/stackdemo
-  newTag: 21
