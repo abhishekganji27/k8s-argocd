@@ -5,4 +5,4 @@ resources:
 images:
   - name: abhishekganji27/stackdemo:7
     newName: abhishekganji27/stackdemo
-    newTag: '51'
+    newTag: '52'
